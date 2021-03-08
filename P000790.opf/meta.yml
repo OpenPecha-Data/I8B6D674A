@@ -4,4 +4,14 @@ source_metadata:
   id: bdr:W28949
   title: འབྲས་སྤུངས་དགོན་དུ་བཞུགས་སུ་གསོལ་བའི་དཔེ་རྙིང་དཀར་ཆག
   author: ''
-  volumes: {}
+  volumes:
+    4f07739d35394b29a4e796c8dca8fea9:
+      image_group_id: I1KG10818
+      title: ''
+      volume_number: 1
+      total_pages: 1386
+    3cb46322e2424d9190947478153e2562:
+      image_group_id: I1KG10819
+      title: ''
+      volume_number: 2
+      total_pages: 1142
